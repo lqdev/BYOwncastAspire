@@ -17,5 +17,6 @@
                 "Ionide.Ionide-fsharp"
             ]
         }
-    }
+    },
+    "postStartCommand": "sudo dotnet workload install aspire"
 }

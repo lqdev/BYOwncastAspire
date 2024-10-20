@@ -4,6 +4,8 @@ This sample application provides a working sample of a self-hosted live streamin
 
 ## Quick Start
 
+The easiest way to get started is to open this repository in Codespaces and follow the instructions for running the application below.
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lqdev/BYOwncastAspire)
 
 ## Prerequisites
