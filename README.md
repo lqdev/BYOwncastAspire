@@ -2,6 +2,8 @@
 
 This sample application provides a working sample of a self-hosted live streaming application powered by Owncast and orchestrated by .NET Aspire.
 
+![BYOwnCastAspire Web Frontend](https://github.com/user-attachments/assets/bdd9f901-8d8f-45be-9e37-4dce8459e481)
+
 ## Quick Start
 
 The easiest way to get started is to open this repository in Codespaces and follow the instructions for running the application below.
